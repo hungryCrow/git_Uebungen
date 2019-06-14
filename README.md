@@ -1,3 +1,3 @@
-# PYTHON Basics
+# PYTHON Basics for Librarians
 ## Autoren
-Tom-Turbo
+Turbo, Tom
